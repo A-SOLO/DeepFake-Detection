@@ -33,3 +33,7 @@ Performing extensive training and hyperparameter tuning, such as comparing diffe
 * Regularization: L2 with 0.001 rate
 * Trainig Accuracy: 93.05%
 * Val Accuracy: 90.42%
+
+# Note:
+(Due to computational limit, only 5 zip files of 470GB data were used for training.)
+- By addressing computational efficiency, adaptability, and data diversity, we can build a robust defense against the evolving landscape of deepfake technology.
